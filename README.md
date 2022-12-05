@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Ajayi
 - 👀 I’m interested in Internship || Jnr. Developer roles
 - 🌱 I’m currently learning JavaScript && React
-- 💞️ I’m looking to collaborate on Fron-End Development gigs or projects
+- 💞️ I’m looking to collaborate on Front-End Development gigs or projects
 - 📫 You can reach me on Twitter: @lordzwealth or my mail: ajayiemmanuel215@gmail.com
 
 <!---
