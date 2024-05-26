@@ -13,12 +13,12 @@ Whether it's wrangling messy datasets, building predictive models, or creating i
 
 ## Projects
 Here are some of the projects I've worked on:
-1. **Predicting House Prices**: Built a regression model to predict house prices using a dataset of real estate listings.
-2. **Sentiment Analysis of Twitter Data**: Analyzed tweets using NLP techniques to understand public opinion on a particular topic.
-3. **Customer Segmentation**: Employed clustering algorithms to segment customers based on their purchasing behavior for targeted marketing campaigns.
+1. **Customer Segmentation**: Employed clustering algorithms to segment customers based on their purchasing behavior for targeted marketing campaigns.
+2. **Predicting House Prices**: Built a regression model to predict house prices using a dataset of real estate listings.
+3. **Sentiment Analysis of Twitter Data**: Analyzed tweets using NLP techniques to understand public opinion on a particular topic.
 
 ## Skills
-- Programming Languages: Python, 
+- Programming Languages: Python
 - Data Analysis Libraries: Pandas, NumPy, SciPy
 - Machine Learning Libraries: Scikit-learn, TensorFlow
 - Data Visualization: Matplotlib, Seaborn, Plotly
